@@ -1,1 +1,1 @@
-This repo will be destroyed asap
+This is a test
